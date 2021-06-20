@@ -13,5 +13,9 @@ https://user-images.githubusercontent.com/25541508/122661849-37761e00-d1ac-11eb-
 
 original Image credits: Craig McKay, https://unsplash.com/photos/jmURdhtm7Ng
 
+## Tomato leaf disease detection
 
+**Code: https://github.com/gkadusumilli/CNN-architectures/blob/main/Tomato_leaf_disease.ipynb**
+
+![download (10)](https://user-images.githubusercontent.com/25541508/122664122-f89c9400-d1bc-11eb-8efe-ad4d0276fa08.png)
 
