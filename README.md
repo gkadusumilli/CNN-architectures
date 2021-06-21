@@ -24,3 +24,10 @@ original Image credits: Craig McKay, https://unsplash.com/photos/jmURdhtm7Ng
 **Code: https://github.com/gkadusumilli/CNN-architectures/blob/main/Mask_RCNN_COCO.ipynb**
 
 ![mask_RCNN](https://raw.githubusercontent.com/gkadusumilli/CNN-architectures/main/Mask_rcnn_concat.png)
+
+## 3D Ken burns
+
+**code: https://github.com/gkadusumilli/CNN-architectures/blob/main/3d_ken_burns.ipynb**
+
+https://user-images.githubusercontent.com/25541508/122729776-25bd7500-d297-11eb-8cfb-c4f20d956354.mp4
+
